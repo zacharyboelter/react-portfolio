@@ -1,28 +1,28 @@
 {
-  "name": "Chetan",
+  "name": "Zachary",
   "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm Chetan Verma - curious",
+  "headerTaglineTwo": "I'm Zachary Boelter - curious",
   "headerTaglineThree": "designer and devloper",
-  "headerTaglineFour": " based in New Delhi, India.",
-  "showBlog": true,
+  "headerTaglineFour": " based in Los Angeles.",
+  "showBlog": false,
   "darkMode": true,
   "socials": [
     {
       "id": "1",
       "title": "Github",
-      "link": "https://github.com/chetanverma16"
+      "link": "https://github.com/zacharyboelter"
     },
     {
       "id": "2",
       "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/chetanverma7/"
+      "link": "https://www.linkedin.com/in/zacharyboelter/"
     },
     {
       "id": "3",
       "title": "Twitter",
-      "link": "https://twitter.com/realchetanverma"
+      "link": ""
     },
-    { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
+    { "id": "4", "title": "Blog", "link": "" },
     { "id": "5", "title": "Email", "link": "mailto:hello@chetanverma.com" }
   ],
   "projects": [
