@@ -16,7 +16,8 @@ const Footer = ({}) => {
             <h1 className="text-3xl tablet:text-6xl laptop:text-6xl laptopl:text-8xl text-bold">
               TOGETHER
             </h1>
-            <Button type="primary">Schedule a call</Button>
+            {/* button linked to mail for now. Possibly link to calendly? */}
+            <Button type="primary" onClick={() => window.open("mailto:zboelter@gmail.com")}>Schedule a call</Button>
             <div className="mt-10">
               <Socials />
             </div>
